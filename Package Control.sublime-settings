@@ -1,0 +1,38 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+		"JavaScript Completions"
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AdvancedNewFile",
+		"Alignment",
+		"All Autocomplete",
+		"Boxy Theme",
+		"DocBlockr",
+		"EditorConfig",
+		"Emmet",
+		"GitGutter",
+		"Github Color Theme",
+		"JavaScriptNext - ES6 Syntax",
+		"LiveReload",
+		"LogView",
+		"Markdown Preview",
+		"Materialize",
+		"Package Control",
+		"Phpcs",
+		"PlainTasks",
+		"Pretty JSON",
+		"ReactJS",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeGit",
+		"SublimeLinter",
+		"Theme - Soda",
+		"Themr",
+		"TrailingSpaces",
+		"WordPress"
+	]
+}

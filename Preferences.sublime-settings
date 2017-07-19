@@ -1,0 +1,28 @@
+{
+	"always_show_minimap_viewport": true,
+	"bold_folder_labels": true,
+	"caret_extra_bottom": 1,
+	"caret_extra_top": 1,
+	"caret_extra_width": 1,
+	"caret_style": "blink",
+	"color_scheme": "Packages/User/SublimeLinter/Material Vim Blackboard (SL).tmTheme",
+	"fade_fold_buttons": false,
+	"font_size": 8,
+	"ignored_packages":
+	[
+		"JavaScript Completions",
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"index_files": false,
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
+	"overlay_scroll_bars": "enabled",
+	"show_encoding": true,
+	"show_line_endings": true,
+	"theme": "Boxy Nova.sublime-theme"
+}
